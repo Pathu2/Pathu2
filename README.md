@@ -9,6 +9,7 @@ Pre-Final Year Undergraduate Student at IIT KGP
 * ✉️  You can contact me at [pratham17092002@gmail.com](mailto:pratham17092002@gmail.com)
 * 🚀  I'm currently working on [ApnaInsti](http://play.google.com/store/apps/details?id=com.apnainsti)
 * 🧠  I'm learning Golang, Java, DevOps
+* ⭕️  For more details [Read my resume](https://drive.google.com/file/d/1lltGloAl4QhGmkHCx-Fqa2NJQ5ER68yl/view?usp=sharing)
 
 ### Skills
 
