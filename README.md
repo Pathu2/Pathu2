@@ -4,7 +4,7 @@ Hi 👋 My name is Prathmesh Somani
 A Passionate Full Stack Developer
 ---------------------------------
 
-Pre-Final Year Undergraduate Student at IIT KGP
+Final Year Undergraduate Student at IIT KGP
 
 * ✉️  You can contact me at [pratham17092002@gmail.com](mailto:pratham17092002@gmail.com)
 * 🚀  I'm currently working on [ApnaInsti](http://play.google.com/store/apps/details?id=com.apnainsti)
